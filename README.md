@@ -1,8 +1,8 @@
-### Socials
-Discord: 0x63756E74#0666
-Instagram: 0x63756E74_xD
+# Socials
+Discord: 0x63756E74#0666\
+Instagram: 0x63756E74_xD\
 Twitter: 0x63756E74xD
-### Stats
+# Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=0x63756E74&count_private=true&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x63756E74&count_private=true&theme=radical)](#)
 <!--https://github-readme-stats.vercel.app/api?username=0x63756E74&count_private=true&show_icons=true&theme=radical-->
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0x63756E74&repo=0x63756E74&theme=radical)](https://github.com/0x63756E74/0x63756E74)-->
