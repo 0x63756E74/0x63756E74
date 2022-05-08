@@ -9,4 +9,4 @@ Twitter: 0x63756E74xD
 
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0x63756E74&repo=0x63756E74&theme=radical)](https://github.com/0x63756E74/0x63756E74)-->
 #
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0x63756E74&repo=Hello-World-Express&theme=radical)](https://github.com/0x63756E74/Hello-World-Express)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0x63756E74&repo=Hello-World&theme=radical)](https://github.com/0x63756E74/Hello-World-Express) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0x63756E74&repo=Hello-World-Express&theme=radical)](https://github.com/0x63756E74/Hello-World) 
